@@ -1,0 +1,37 @@
+body{
+    background-color: steelblue;
+    text color: black;
+    font-family: times, "Times New Roman", Times, serif;
+    font-size: 22px;
+    position: relative;
+}
+H1 {
+    text-align: center;
+    position: relative;
+}
+h3 {
+    position: relative
+}
+
+.Banner{
+    position: fixed;
+    padding:15px;
+    height:200px;
+    width: 2500px;
+    background-size:100% 100%;
+    background-color:gray ;
+    border-color: gray ;
+    border-radius: 25%
+}
+
+.pictures {
+    height: 600px;
+    width: 400px;
+    position: relative
+
+}
+
+
+
+
+
