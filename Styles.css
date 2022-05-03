@@ -1,20 +1,17 @@
 body{
     background-color: steelblue;
-    text color: black;
-    font-family: times, "Times New Roman", Times, serif;
-    font-size: 22px;
-    position: relative;
 }
 H1 {
     text-align: center;
     position: relative;
 }
 h3 {
-    position: relative
+    text-align: center;
+    position: relative;
 }
 
 .Banner{
-    position: fixed;
+    position: absolute;
     padding:15px;
     height:200px;
     width: 2500px;
@@ -24,13 +21,31 @@ h3 {
     border-radius: 25%
 }
 
-.pictures {
+#picA {
     height: 600px;
     width: 400px;
-    position: relative
-
+    position: relative;
+    top: 200px;
+    left: 50px;
 }
 
+#picB {
+    height: 600px;
+    width: 400px;
+    position: relative;
+    left: 82%;
+    bottom: 404px;
+}
+
+#bioA{
+    text-align: center;
+    font-size: 26px;
+    font-family: times, "Times New Roman", Times, serif;
+    position: relative;
+    top: 150px;
+    line-height: 100%;
+    
+}
 
 
 
