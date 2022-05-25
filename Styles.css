@@ -4,10 +4,14 @@ body{
 H1 {
     text-align: center;
     position: relative;
+    font-size: 76px;
+    top: 70px;
 }
 h3 {
     text-align: center;
     position: relative;
+    font-size: 26px;
+    top: 50px;
 }
 
 .Banner{
@@ -28,6 +32,7 @@ h3 {
     position: relative;
     top: 160px;
     left: 75px;
+    border: 4px solid white;
 }
 
 #picB {
@@ -36,6 +41,7 @@ h3 {
     position: relative;
     left: 66%;
     top: 160px;
+    border: 4px solid white;
 }
 
 
@@ -56,6 +62,9 @@ h3 {
     font-size:24px;
 }
 
+.paragraph {
+    font-size: 36px;
+}
 
 
 
