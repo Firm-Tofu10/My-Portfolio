@@ -17,34 +17,43 @@ h3 {
     width: 2500px;
     background-size:100% 100%;
     background-color:gray ;
-    border-color: gray ;
-    border-radius: 25%
+    border-color: white;
+    border-radius: 25%;
+    border: 4px solid white;
 }
 
 #picA {
     height: 600px;
     width: 400px;
     position: relative;
-    top: 200px;
-    left: 50px;
+    top: 160px;
+    left: 75px;
 }
 
 #picB {
     height: 600px;
     width: 400px;
     position: relative;
-    left: 82%;
-    bottom: 404px;
+    left: 66%;
+    top: 160px;
 }
 
-#bioA{
+
+.container {
+    background-color: steelblue;
+    border: 4px solid white;
+    padding: rem2;
+    border-radius: 4rem;
+    align-items: center;
     text-align: center;
-    font-size: 26px;
-    font-family: times, "Times New Roman", Times, serif;
+    justify-content: center;
+    width: 1500px;
+    height:600px;
+    left: 520px;
+    bottom: 450px;
     position: relative;
-    top: 150px;
-    line-height: 100%;
-    
+    color:rgb(7, 80, 29);
+    font-size:24px;
 }
 
 
